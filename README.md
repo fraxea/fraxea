@@ -1,10 +1,8 @@
 ### Hi there 👋
-I'm studying Computer Engineering at Sharif University of Technology. I'm interested in machine learning and data science.
-- 🔭 I’m currently working on [Weather Forecasting](https://github.com/fraxea/weather) using machine learning algorithms.
-- 🌱 I’m currently learning more about machine learning and data science.
+I'm studying Computer Engineering at Sharif University of Technology. I'm interested in machine learning and computer vision.
+- 🌱 I’m currently learning more about machine learning and computer vision.
 - Libraries that I used:
-    - numpy
-    - pandas
-    - matplotlib
-    - scikit-learn
+    - pytorch
     - keras
+    - pandas
+    - scikit-learn
